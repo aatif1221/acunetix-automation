@@ -153,7 +153,7 @@ if __name__ == "__main__":
 ✞ Believe ✞                               BRAIN POWER IS THE MAIN POWER.....
 
         
-➬ Coded By Rohan_Lew and Atif_Alam
+➬ Coded By Atif_Alam
 ╰───────────────────────────────────────────────────────────────────────────────╯
     """
 
